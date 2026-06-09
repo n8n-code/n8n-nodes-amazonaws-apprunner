@@ -8,7 +8,7 @@ import type {
 export class AmazonawsApprunnerApi implements ICredentialType {
 	name = 'N8nDevAmazonawsApprunnerApi';
 
-	displayName = 'amazonaws-apprunner API';
+	displayName = 'Amazonaws Apprunner API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsApprunner/amazonaws-apprunner.png', dark: 'file:../nodes/AmazonawsApprunner/amazonaws-apprunner.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsApprunnerApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://apprunner.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-apprunner API server',
+			description: 'The base URL of your Amazonaws Apprunner API server',
 		},
 		{
 			displayName: 'API Key',

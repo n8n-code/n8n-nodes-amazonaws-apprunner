@@ -53,9 +53,46 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post associate custom domain, Post create auto scaling configuration, Post create connection, Post create observability configuration, Post create service, Post create vpc connector, Post create vpc ingress connection, Post delete auto scaling configuration, Post delete connection, Post delete observability configuration, Post delete service, Post delete vpc connector, Post delete vpc ingress connection, Post describe auto scaling configuration, Post describe custom domains, Post describe observability configuration, Post describe service, Post describe vpc connector, Post describe vpc ingress connection, Post disassociate custom domain, Post list auto scaling configurations, Post list connections, Post list observability configurations, Post list operations, Post list services, Post list tags for resource, Post list vpc connectors, Post list vpc ingress connections, Post pause service, Post resume service, Post start deployment, Post tag resource, Post untag resource, Post update service, Post update vpc ingress connection |
+<details>
+<summary><b>Default</b> (35 operations)</summary>
+
+- Post Associate Custom Domain
+- Post Create Auto Scaling Configuration
+- Post Create Connection
+- Post Create Observability Configuration
+- Post Create Service
+- Post Create Vpc Connector
+- Post Create Vpc Ingress Connection
+- Post Delete Auto Scaling Configuration
+- Post Delete Connection
+- Post Delete Observability Configuration
+- Post Delete Service
+- Post Delete Vpc Connector
+- Post Delete Vpc Ingress Connection
+- Post Describe Auto Scaling Configuration
+- Post Describe Custom Domains
+- Post Describe Observability Configuration
+- Post Describe Service
+- Post Describe Vpc Connector
+- Post Describe Vpc Ingress Connection
+- Post Disassociate Custom Domain
+- Post List Auto Scaling Configurations
+- Post List Connections
+- Post List Observability Configurations
+- Post List Operations
+- Post List Services
+- Post List Tags For Resource
+- Post List Vpc Connectors
+- Post List Vpc Ingress Connections
+- Post Pause Service
+- Post Resume Service
+- Post Start Deployment
+- Post Tag Resource
+- Post Untag Resource
+- Post Update Service
+- Post Update Vpc Ingress Connection
+
+</details>
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-amazonaws-apprunner",
-  "version": "1.0.0",
-  "description": "App Runner is an application service that provides a fast, simple, and cost-effective way to go directly from an existing container image or source code to a runn..",
+  "version": "1.0.1",
+  "description": "App Runner deploys container images or source code to running applications.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-amazonaws-apprunner",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "amazonaws-apprunner"

@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsApprunner implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-apprunner',
+		displayName: 'Amazonaws Apprunner',
 		name: 'N8nDevAmazonawsApprunner',
 		icon: { light: 'file:./amazonaws-apprunner.png', dark: 'file:./amazonaws-apprunner.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'App Runner is an application service that provides a fast, simple, and cost-effective way to go directly from an existing container image or source code to a runn..',
-		defaults: { name: 'amazonaws-apprunner' },
+		description: 'App Runner deploys container images or source code to running applications.',
+		defaults: { name: 'Amazonaws Apprunner' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
